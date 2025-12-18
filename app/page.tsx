@@ -251,7 +251,7 @@ export default function Page() {
             With Love & Gratitude
           </p>
           <p className="text-sm opacity-90">
-            Sandhya & Keerthi Raj • November 2023
+            Sandhya & Keerthi Raj • November 2025
           </p>
           <p className="text-xs mt-6 opacity-70">
             Captured by Mokshith Studio • All rights reserved
